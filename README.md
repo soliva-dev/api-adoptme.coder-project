@@ -2,6 +2,9 @@
 
 API REST de adopción de mascotas construida con Node.js, Express y MongoDB. Incluye tests funcionales, imagen Docker optimizada y documentación Swagger.
 
+- **Repositorio GitHub:** https://github.com/soliva-dev/api-adoptme.coder-project
+- **Imagen DockerHub:** https://hub.docker.com/r/samuelolivaok/adoptme-final
+
 ---
 
 ## Estructura del proyecto
